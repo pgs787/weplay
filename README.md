@@ -34,7 +34,7 @@
     <td>18</td>
     <td>4</td>
     <td>8</td>
-    <td>9</td>
+    <td>{9}</td>
     <td>23</td>
 </tr>
 </tbody>
