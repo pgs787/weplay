@@ -5,7 +5,7 @@
 <tr>
     <td>25</td>
     <td>14</td>
-    <td>3</td>
+    <td>{3}</td>
     <td>19</td>
     <td>15</td>
 </tr>
